@@ -1,5 +1,5 @@
 # Credit_Score_Classification_Internship
-This is my internship project with Curve AI Solutions company which lasted for 6 weeks.
+This is my internship project with Curve AI Solutions company.
 - The project has been done as a teamwork task with Eng. Karim Akmal.
 - Best Model applied on this dataset is KNN Classifier.
 - The project aims to help the management team in a bank to automate customer score predictions
